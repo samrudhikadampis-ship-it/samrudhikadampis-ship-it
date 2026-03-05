@@ -1,14 +1,25 @@
 ## Hi there , I'm Samruddhi👋
 
-<h1 align="center">Hi there, I'm Sam 👋</h1>
 
 <p align="center">
-<button class="m1"><a href="https://linkedin.com/in/samruddhi-kadam-5a3874389">LinkedIn</a></button> |
-<button class="m2"><a href="https://instagram.com/sammk_21">Instagram</a></button> |
-<button class="m3"><a href="https://leetcode.com/Samu_Kadam">LeetCode</a></button> |
-<button class="m4"><a href="https://codeforces.com/profile/Fightcoder">Codeforces</a></button>
-</p>
 
+<a href="https://linkedin.com/in/samruddhi-kadam-5a3874389">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/sammk_21">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/Samu_Kadam">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://codeforces.com/profile/Fightcoder">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+</p>
 ---
 
 ## 👨‍💻 About Me
@@ -30,60 +41,7 @@
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
 
-.m1
-{
 
-  background-color: #007bff; 
-  color: white;              
-  padding: 15px 32px;        
-  border: none;            
-  border-radius: 8px;        
-  font-size: 16px;         
-  cursor: pointer;           
-
-}
-
-.m2
-{
-
- background-color: #ffcccc; 
-      color: white; 
-      border: none;
-      padding: 15px 32px;
-      border-radius: 8px;
-      font-size: 16px;
-      cursor: pointer;
-      display: inline-flex;
-      align-items: center;
-      gap: 10px;
-      transition: background-color 0.3s;
-
-}
-
-.m3
-{
-
-  background-color: #007bff; /* Button background color (Blue) */
-  color: white;              /* Text color */
-  padding: 15px 32px;        /* Space around the text */
-  border: none;              /* Remove default border */
-  border-radius: 8px;        /* Rounded corners */
-  font-size: 16px;           /* Text size */
-  cursor: pointer;           /* Change cursor to a hand on hover */
-
-}
-.m4
-{
-
-  background-color: #007bff; /* Button background color (Blue) */
-  color: white;              /* Text color */
-  padding: 15px 32px;        /* Space around the text */
-  border: none;              /* Remove default border */
-  border-radius: 8px;        /* Rounded corners */
-  font-size: 16px;           /* Text size */
-  cursor: pointer;           /* Change cursor to a hand on hover */
-
-}
 
 <!--
 **samrudhikadampis-ship-it/samrudhikadampis-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
