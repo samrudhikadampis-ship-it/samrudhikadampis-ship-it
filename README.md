@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a FY Electronics and Communication Student
+- 🎓 I'm a First year Electronics and Communication Student
 - 💻 Currently learning Data Structures and Algorithms
 - 🌐 Working on Full Stack Development
 - 🤝 Looking to collaborate on Open Source Projects
