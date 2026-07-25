@@ -1,58 +1,121 @@
-## Hi there , I'm Samruddhi👋
+<h1 align="center">Hi 👋, I'm Samruddhi Kadam</h1>
 
+<h3 align="center">
+🚀 Developer | Problem Solver | Competitive Programmer
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer+in+Progress;Competitive+Programming+Enthusiast;Building+Projects+That+Matter" />
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 2nd Electronics & Telecommunication Engineering Student
+- 💻 Passionate about **Data Structures & Algorithms**
+- 🌱 Currently learning **Full Stack Development & System Design**
+- 🚀 Love building projects and solving real-world problems
+- ⚡ Always exploring new technologies
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,js,python" />
+</p>
+
+### Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
+
+---
+
+# 🚀 Featured Project
+
+## 🔹 Graph Solver
+
+A web application that solves graph algorithm problems and helps users analyze graph data efficiently.
+
+### Features:
+- ✅ Dijkstra's Shortest Path
+- ✅ Breadth-First Search (BFS)
+- ✅ Depth-First Search (DFS)
+- ✅ Minimum Spanning Tree
+- ✅ Graph Input & Result Generation
+- ✅ Time & Space Complexity Analysis
+
+🔗 Live Demo:
+https://algograph-solver.vercel.app/
+
+---
+
+# 🏆 Competitive Programming
 
 <p align="center">
 
-<a href="https://linkedin.com/in/samruddhi-kadam-5a3874389">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://leetcard.jacoblin.cool/Samu_Kadam?theme=dark&font=Baloo" />
 
-<a href="https://instagram.com/sammk_21">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+</p>
 
-<a href="https://leetcode.com/Samu_Kadam">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+<p align="center">
 
 <a href="https://codeforces.com/profile/Fightcoder">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Fightcoder&theme=tokyonight" />
 </a>
 
 </p>
 
-## 👨‍💻 About Me
-
-- 🎓 I'm a First year Electronics and Communication Student
-- 💻 Currently learning Data Structures and Algorithms
-- 🌐 Working on Full Stack Development
-- 🤝 Looking to collaborate on Open Source Projects
-- 📫 Reach me: samrudhikadam362@gmail.com
+- ⭐ LeetCode Rating: 1500+
+- ⭐ Codeforces Rating: 1300+
 
 ---
 
-## 🛠 Languages and Tools
+# 📊 GitHub Stats
 
-![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+<p align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=samrudhikadampis-ship-it&show_icons=true&theme=tokyonight" />
 
+<br/>
 
-<!--
-**samrudhikadampis-ship-it/samrudhikadampis-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=samrudhikadampis-ship-it&theme=tokyonight" />
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrudhikadampis-ship-it&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samrudhikadampis-ship-it&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/samruddhi-kadam-5a3874389"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/samrudhikadampis-ship-it"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.instagram.com/sammk_21/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+</p>
+---
+
+<h3 align="center">
+✨ "Code. Learn. Build. Repeat." ✨
+</h3>
