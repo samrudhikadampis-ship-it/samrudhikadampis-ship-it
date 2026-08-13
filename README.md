@@ -78,6 +78,13 @@ https://algograph-solver.vercel.app/
 - ⭐ Codeforces Rating: 1300+
 
 ---
+## 🏆 Achievements
+
+- 🏅 **ICPC AlgoQueen 2026 — Finalist**
+- 🎓 **SheFi Scholar**
+- 💻 **GirlScript Summer of Code (GSSoC) — Contributor**
+
+---
 
 # 📊 GitHub Stats
 
