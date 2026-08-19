@@ -57,6 +57,12 @@ A web application that solves graph algorithm problems and helps users analyze g
 https://algograph-solver.vercel.app/
 
 ---
+## 🏆 Achievements
+
+- 🏅 **ICPC AlgoQueen 2026 — Finalist**
+- 🎓 **SheFi Scholar**
+- 💻 **GirlScript Summer of Code (GSSoC) — Contributor**
+---
 
 # 🏆 Competitive Programming
 
@@ -76,13 +82,6 @@ https://algograph-solver.vercel.app/
 
 - ⭐ LeetCode Rating: 1500+
 - ⭐ Codeforces Rating: 1300+
-
----
-## 🏆 Achievements
-
-- 🏅 **ICPC AlgoQueen 2026 — Finalist**
-- 🎓 **SheFi Scholar**
-- 💻 **GirlScript Summer of Code (GSSoC) — Contributor**
 
 ---
 
