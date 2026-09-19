@@ -84,13 +84,14 @@ MediLingo is an AI-powered web application that processes prescription images/PD
 
 > **Current Status:** The frontend is deployed and the complete application has been developed with frontend–backend integration. The deployed backend is currently facing an API connectivity/deployment issue, which is being actively debugged and fixed.
 ---
-## 🏆 Achievements
+## **🏆 Achievements**
 
-- 🏅 **ICPC AlgoQueen 2026 — Finalist**
-- 🎓 **SheFi Scholar**
-- 💻 **GirlScript Summer of Code (GSSoC) — Contributor**
+- 🏅 **ICPC AlgoQueen 2026** — Global Finalist (Rank: 911)
+- 💡 **Codess.Cafe Mentee** — Selected in the Top 2%
+- 🎓 **SheFi Scholar** — Active Scholar
+- 💻 **GirlScript Summer of Code (GSSoC)** — Open Source Contributor
+  
 ---
-
 # 🏆 Competitive Programming
 
 <p align="center">
