@@ -149,26 +149,6 @@ MediLingo is an AI-powered web application that processes prescription images/PD
 </p>
 
 ---
-# 🏆 Competitive Programming
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/Samu_Kadam?theme=dark&font=Baloo" />
-
-</p>
-
-<p align="center">
-
-<a href="https://codeforces.com/profile/Fightcoder">
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Fightcoder&theme=tokyonight" />
-</a>
-
-</p>
-
-- ⭐ LeetCode Rating: 1500+
-- ⭐ Codeforces Rating: 1300+
-
----
 
 # 📊 GitHub Stats
 
