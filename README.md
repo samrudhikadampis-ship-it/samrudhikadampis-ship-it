@@ -85,15 +85,19 @@ A web application that solves graph algorithm problems and helps users analyze g
 
 **Features:**
 
-- ✅ Dijkstra's Shortest Path
+- ✅ Dijkstra's Shortest Path Algorithm
 - ✅ Breadth-First Search (BFS)
 - ✅ Depth-First Search (DFS)
-- ✅ Minimum Spanning Tree
+- ✅ Minimum Spanning Tree (MST)
+- ✅ Prim's and Kruskal's Algorithms
+- 🔜 Strongly Connected Components (SCC)
+- 🔜 Floyd–Warshall Algorithm
+- 🔜 Bellman–Ford Algorithm
 - ✅ Graph Input & Result Generation
 - ✅ Time & Space Complexity Analysis
 
 <p align="center">
-  <img src="./images/graph-solver.png" width="80%" />
+  <img src="C:\Users\HP\Downloads\graph-solver.png" width="80%" />
 </p>
 
 🔗 **Live Demo:** https://algograph-solver.vercel.app/
