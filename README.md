@@ -30,7 +30,7 @@
 
 ### Web Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,fastapi,postgres" />
 </p>
 
 ### Tools
@@ -84,14 +84,60 @@ MediLingo is an AI-powered web application that processes prescription images/PD
 📂 **GitHub:** https://github.com/samrudhikadampis-ship-it/AI-Prescription-Translator
 
 > **Current Status:** The frontend is deployed and the complete application has been developed with frontend–backend integration. The deployed backend is currently facing an API connectivity/deployment issue, which is being actively debugged and fixed.
+
+---
+## 🚀 Featured Project
+
+### ✈️ AIR-FARE-INDEX — Airfare Price Index for India
+
+**Problem:**
+Domestic airfares in India change constantly across booking platforms, which makes it hard to see real price trends or compare routes and booking windows.
+
+**Solution:**
+AIR-FARE-INDEX is a full-stack platform that automatically scrapes airfare data, stores it as historical observations, and turns it into an Airfare Price Index with route-wise insights and trend visualizations.
+
+**Architecture:**
+`Airline/OTA Websites → Web Scrapers → Ingestion Pipeline → PostgreSQL → FastAPI → React Dashboard`
+
+**Features:**
+
+* ✅ Automated Web Scraping (Cleartrip & EaseMyTrip) using Playwright
+* ✅ Idempotent Ingestion Pipeline with Historical Fare Observations
+* ✅ PostgreSQL Database with Alembic Migrations
+* ✅ FastAPI REST API (quotes, routes, index trends, booking windows, sector heatmap)
+* ✅ React Dashboard with Data Explorer & Price Trend Visualizations
+* ✅ Tracked Routes Across Multiple Booking Windows (T+1 to T+45)
+* ✅ Automated Test Suite (ingestion, duplicate protection, API contracts, pagination)
+* 🚧 Work in Progress — more routes, sources & data feeds coming
+
+**Tech Stack:**
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,react,vite" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/samrudhikadampis-ship-it/AIR-FARE-INDEX/raw/main/images/dashboard.png" width="48%" />
+  <img src="https://github.com/samrudhikadampis-ship-it/AIR-FARE-INDEX/raw/main/images/data-explorer.png" width="48%" />
+</p>
+
+📂 **GitHub:** https://github.com/samrudhikadampis-ship-it/AIR-FARE-INDEX
+
 ---
 ## **🏆 Achievements**
 
 - 🏅 **ICPC AlgoQueen 2026** — Global Finalist (Rank: 911)
-- 💡 **Codess.Cafe Mentee** — Selected in the Top 2%
-- 🎓 **SheFi Scholar** — Active Scholar
-- 💻 **GirlScript Summer of Code (GSSoC)** — Open Source Contributor
-  
+- 💡 **Codess.Cafe Mentee** — Selected as 1 of 100 mentees from 5000+ applications (Top 2%) in a global program that helps women break into big tech companies through mentorship, interview prep and career guidance
+- 🌐 **SheFi Scholar (Full Scholarship)** — Awarded a full scholarship to SheFi, a Web3 & DeFi learning program for women
+- 🤝 **GirlScript Summer of Code (GSSoC)** — Open Source Contributor
+
+---
+
+## 🌍 Open Source
+
+<p>
+<img src="https://img.shields.io/badge/GSSoC-Contributor-orange?style=for-the-badge" />
+</p>
+
 ---
 # 🏆 Competitive Programming
 
